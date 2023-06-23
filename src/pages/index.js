@@ -29,7 +29,7 @@ export default function Home() {
         ></link>
         <link rel="manifest" href="/site.webmanifest"></link>
       </Head>
-      <h1>Home</h1>
+      <h1 className="text-red-400">Hello world!</h1>
     </>
   );
 }
